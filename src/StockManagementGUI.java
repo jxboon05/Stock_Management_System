@@ -63,7 +63,7 @@ public class StockManagementGUI extends Application{
 	    HBox root = new HBox();
 	    root.setStyle("-fx-background-color: ALICEBLUE;");
 
-	    Image image = new Image(getClass().getResourceAsStream("image.png")); 
+	    Image image = new Image(getClass().getResourceAsStream("image.png"));
 	    ImageView imageView = new ImageView(image);
 	    imageView.setFitHeight(560); 
 	    imageView.setPreserveRatio(true);
