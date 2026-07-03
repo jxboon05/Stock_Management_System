@@ -3,6 +3,9 @@
 ## Overview
 A JavaFX desktop application for managing household appliance inventory. The system allows users to manage products, track stock levels, and perform inventory operations through a graphical user interface.
 
+## Class Diagram
+![UML Class Diagram](uml_diagram.png)
+
 ## Features
 - User authentication
 - Add, update, and delete products
