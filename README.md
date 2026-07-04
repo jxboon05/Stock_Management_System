@@ -1,6 +1,6 @@
 # Stock Management System
 
-## Overview
+## Project Overview
 A JavaFX desktop application for managing household appliance inventory. The system allows users to manage products, track stock levels, and perform inventory operations through a graphical user interface.
 
 ## Class Diagram
