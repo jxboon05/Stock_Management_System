@@ -25,8 +25,6 @@ This application helps small retailers and warehouse operators manage household 
 - Java Collections
 - Event-Driven Programming
 - Exception Handling
-- File Handling (if applicable)
-- MVC Design Pattern (if you used it)
 
 ## 🏗️ System Design
 
@@ -34,7 +32,7 @@ The application follows object-oriented programming principles with inheritance 
 
 ### UML Class Diagram
 
-![Class Diagram](assets/uml_diagram.png)
+![Class Diagram](uml_diagram.png)
 
 ## ✨ Key Features
 
