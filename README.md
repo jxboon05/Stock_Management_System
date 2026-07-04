@@ -50,8 +50,6 @@ The application follows object-oriented programming principles with inheritance 
 
 The application provides a secure login interface to ensure only authorized users can access the inventory management system.
 
-![Login Screen](assets/login.png)
-
 ### Features
 
 - Staff authentication
@@ -59,13 +57,13 @@ The application provides a secure login interface to ensure only authorized user
 - Real-time date and time display
 - Invalid login validation
 
+![Login Screen](assets/login.png)
+
 ---
 
 ## ➕ Product Management
 
 The system allows users to create and manage different categories of household appliances.
-
-![Add Product](assets/add_product.png)
 
 ### Supported Product Categories
 
@@ -76,13 +74,13 @@ The system allows users to create and manage different categories of household a
 
 Each appliance stores its own specialized information, demonstrating the use of inheritance and polymorphism.
 
+![Add Product](assets/add_product.png)
+
 ---
 
 ## 📈 Inventory Operations
 
 Users can efficiently maintain inventory using built-in stock management features.
-
-![Inventory Management](assets/menu.png)
 
 ### Features
 
@@ -94,13 +92,13 @@ Users can efficiently maintain inventory using built-in stock management feature
 - Remove products
 - Mark products as discontinued
 
+![Inventory Management](assets/menu.png)
+
 ---
 
 ## 🚫 Product Discontinuation
 
 Products that are no longer available can be marked as discontinued.
-
-![Discontinued Product](assets/discontinued.png)
 
 ### Features
 
@@ -108,13 +106,13 @@ Products that are no longer available can be marked as discontinued.
 - Prevent further inventory modifications
 - Improve inventory tracking
 
+![Discontinued Product](assets/discontinued.png)
+
 ---
 
 ## 🔍 Product Search & Sorting
 
 The application provides sorting functionality to help users quickly locate products.
-
-![Sorting Products](assets/sorting.png)
 
 ### Features
 
@@ -123,19 +121,22 @@ The application provides sorting functionality to help users quickly locate prod
 - Sort by Price (Low → High)
 - Sort by Price (High → Low)
 
+![Sorting Products](assets/sorting.png)
+
 ---
 
 ## 🚪 Session Management
 
 The application provides a clean logout and exit workflow.
 
-![Exit Screen](assets/exit.png)
-
 ### Features
 
 - Session termination
 - Exit confirmation
 - User summary display
+
+
+![Exit Screen](assets/exit.png)
 
 ---
 
