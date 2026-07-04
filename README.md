@@ -32,7 +32,7 @@ The application follows object-oriented programming principles with inheritance 
 
 ### UML Class Diagram
 
-![Class Diagram](uml_diagram.png)
+![Class Diagram](assets/uml_diagram.png)
 
 ## ✨ Key Features
 
@@ -79,7 +79,7 @@ Each category stores its own specialized attributes.
 - UI Design
 
 ## Preview
-![Stock Management App Preview](app_screenshot.png)
+![Stock Management App Preview](assets/app_screenshot.png)
 
 ## 🚀 Future Improvements
 
