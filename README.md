@@ -38,8 +38,10 @@ A JavaFX desktop application for managing household appliance inventory. The sys
 - JavaFX
 - Eclipse IDE
 
-## Team Members
-* Boon Jia Xuan
-* Lee Jia Xuan
-* Leow Hui Yu
-* Tan Yi Hui
+# Author
+
+**Boon Jia Xuan**
+
+Bachelor of Computer Science (Honours)
+
+Universiti Tunku Abdul Rahman (UTAR)
