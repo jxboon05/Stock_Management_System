@@ -1,42 +1,96 @@
 # Stock Management System
 
-## Project Overview
+## 📌 Project Overview
 A JavaFX desktop application for managing household appliance inventory. The system allows users to manage products, track stock levels, and perform inventory operations through a graphical user interface.
 
-## Class Diagram
-![UML Class Diagram](uml_diagram.png)
+## 💼 Business Impact
+This application helps small retailers and warehouse operators manage household appliance inventory more efficiently. By providing centralized inventory tracking, real-time stock updates, and product categorization, the system reduces manual inventory errors and improves stock visibility for daily operations.
 
-## Key Features
-* **🔒 User Authentication & Login**
-  * Features a polished welcome screen with an active real-time date and time display.
-  * Validates full names against system records to prevent unauthorized access and dynamically greets authenticated staff.
+## 🛠️ Technologies & Tools
 
-* **⚙ Dynamic Inventory Initialization**
-  * Allows administrators to configure the exact size of the incoming batch before adding stock, preventing array indexing errors and managing system memory efficiently.
+### Programming Language
+- Java
 
-* **📋 Specialized Product Categorization**
-  * Supports dedicated data tracking custom-tailored to different types of home appliances:
-    * **Refrigerators:** Tracks door design, color casing, and capacity in liters.
-    * **TVs:** Tracks screen panel types (LED/OLED), resolution outputs, and display dimensions in inches.
-    * **Washing Machines:** Tracks weight load capacity in kg, machine type, and spin speeds (RPM).
-    * **Air Conditioners:** Tracks cooling type, system horsepower, and energy star efficiency ratings.
+### GUI Framework
+- JavaFX
 
-* **📦 Smart Inventory Dashboard**
-  * **Interactive Product Browser:** Instantly displays all tracked items in clean visual UI cards featuring smooth hovering drop-shadow effects.
-  * **Advanced Sorting:** Allows real-time filtering of inventory by product name (A-Z / Z-A) or price metrics (Low → High / High → Low).
-  * **Real-Time Stock Modification:** Effortlessly increment or decrement stock quantities with built-in safeguards to catch negative numbers or insufficient stock errors.
-  * **Product Discontinuation:** Mark out-of-production appliances as "Discontinued" to immediately flag them visually in red and lock them from future modifications.
+### Development Tools
+- Eclipse IDE
 
-* **🚪 Clean Session Termination**
-  * Provides a beautiful application exit layout summarizing the active user's details and safely closing down the inventory thread session.
+### Concepts
+- Object-Oriented Programming (OOP)
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Java Collections
+- Event-Driven Programming
+- Exception Handling
+- File Handling (if applicable)
+- MVC Design Pattern (if you used it)
+
+## 🏗️ System Design
+
+The application follows object-oriented programming principles with inheritance and polymorphism to model different appliance categories while promoting code reusability.
+
+### UML Class Diagram
+
+![Class Diagram](assets/uml_diagram.png)
+
+## ✨ Key Features
+
+### 🔒 User Authentication
+
+- Secure login with staff validation.
+- Real-time date and time display.
+- Personalized welcome screen.
+
+### 📦 Inventory Management
+
+- Add, edit, and remove inventory.
+- Update stock quantities.
+- Prevent negative stock values.
+- Mark discontinued products.
+
+### 📋 Product Categories
+
+Supports:
+
+- Refrigerator
+- Television
+- Washing Machine
+- Air Conditioner
+
+Each category stores its own specialized attributes.
+
+### 🔍 Product Search & Sorting
+
+- Sort by product name.
+- Sort by price.
+- Browse products through an interactive JavaFX interface.
+
+## 🧠 Technical Skills Demonstrated
+
+- Object-Oriented Programming
+- JavaFX GUI Development
+- Event Handling
+- Java Collections
+- Exception Handling
+- Inheritance
+- Polymorphism
+- Encapsulation
+- UI Design
 
 ## Preview
 ![Stock Management App Preview](app_screenshot.png)
 
-## Technologies Used
-- Java
-- JavaFX
-- Eclipse IDE
+## 🚀 Future Improvements
+
+- Database integration (MySQL)
+- Barcode scanning
+- User role management
+- Sales reporting dashboard
+- Product search functionality
+- Inventory export to Excel
 
 ## Author
 
