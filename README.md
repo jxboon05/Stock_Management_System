@@ -1,16 +1,18 @@
 # Stock Management System
 
-A JavaFX desktop application for managing household appliance inventory. The system enables users to manage products, monitor stock levels, and perform inventory operations through an intuitive graphical user interface. The project demonstrates object-oriented programming principles, JavaFX GUI development, and inventory management workflows.
+A JavaFX desktop inventory management application developed using Object-Oriented Programming principles for managing household appliance inventory.
 
 ---
 
 ## 📌 Project Overview
-A JavaFX desktop application for managing household appliance inventory. The system allows users to manage products, track stock levels, and perform inventory operations through a graphical user interface.
+
+The application enables users to authenticate, manage inventory, update stock quantities, categorize household appliances, and organize inventory through an interactive JavaFX graphical interface.
 
 ---
 
-## 💼 Business Impact
-This application helps small retailers and warehouse operators manage household appliance inventory more efficiently. By providing centralized inventory tracking, real-time stock updates, and product categorization, the system reduces manual inventory errors and improves stock visibility for daily operations.
+## 🎯 Project Purpose
+
+This project was developed to demonstrate the application of object-oriented programming concepts in a desktop inventory management system. It showcases JavaFX GUI development, inventory operations, and software design using inheritance, polymorphism, and encapsulation.
 
 ---
 
@@ -142,12 +144,12 @@ The application provides a clean logout and exit workflow.
 
 ## 🧠 Technical Skills Demonstrated
 
-### Programming
+### Programming Languages
 
 - Java
 - JavaFX
 
-### Software Engineering
+### Software Development
 
 - Object-Oriented Programming
 - GUI Development
