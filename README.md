@@ -25,8 +25,6 @@ This application helps small retailers and warehouse operators manage household 
 - Java Collections
 - Event-Driven Programming
 - Exception Handling
-- File Handling (if applicable)
-- MVC Design Pattern (if you used it)
 
 ## 🏗️ System Design
 
